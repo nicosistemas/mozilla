@@ -1,0 +1,5 @@
+Aumentar velocidad rueda del mouse:
+
+- entrar en about:config
+- mousewheel.default.delta_multiplier_y 
+- Cambiar de 100 a 300
